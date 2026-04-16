@@ -20,8 +20,7 @@ Sou apaixonado por transformar dados brutos em inteligência acionável. Minha v
 
 * **Linguagens:** Python, C, SQL
 * **Análise & Modelagem (Data Science/ML):** Pandas, NumPy, Scikit-Learn, Matplotlib
-* **Desenvolvimento & Deploy:** Django, React, Next.js, Tailwind CSS
-* **Ambiente & Ferramentas:** Linux (Ubuntu), Git, Jupyter, Notion, Obsidian
+* **Ambiente & Ferramentas:** Linux (Ubuntu), Git , Vscode, Notion
 
 ---
 
