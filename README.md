@@ -11,7 +11,7 @@ Sou apaixonado por transformar dados brutos em inteligência acionável. Minha v
 ### 🧭 Trajetória e Foco
 
 * **Visão Analítica:** Foco em aplicar estatística, Machine Learning e análise exploratória para resolver problemas reais e gerar valor.
-* **Desenvolvimento e Deploy:** Acredito que um bom modelo precisa ir para produção. Por isso, também construo bases sólidas em desenvolvimento web e APIs para integrar soluções de IA.
+* **MLOps e Deploy:** Acredito que um bom modelo precisa ir para produção. Por isso, foco em engenharia de software aplicada a dados, utilizando **FastAPI** para criar APIs robustas e **Docker** para empacotamento em contêineres.
 * **Domínios de Interesse:** Desenvolvo projetos aplicados a diferentes setores de impacto, com foco especial em Negócios e Finanças, Saúde, Marketing e Sports Analytics (Futebol).
 
 ---
@@ -20,7 +20,8 @@ Sou apaixonado por transformar dados brutos em inteligência acionável. Minha v
 
 * **Linguagens:** Python, C, SQL
 * **Análise & Modelagem (Data Science/ML):** Pandas, NumPy, Scikit-Learn, Matplotlib
-* **Ambiente & Ferramentas:** Linux (Ubuntu), Git , Vscode, Notion
+* **MLOps, APIs & Deploy:** FastAPI, Docker
+* **Ambiente & Ferramentas:** Linux (Ubuntu), Git, VS Code, Notion
 
 ---
 
