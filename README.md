@@ -1,37 +1,53 @@
 # Olá, eu sou Alonso Costa! 👋
 
-### Estudante de Ciência de Dados & Inteligência Artificial | Futuro Cientista de Dados
+### Estudante de Ciência de Dados & IA | Foco em Marketing Analytics
 
-Sou estudante do 3º Período de Ciência de Dados e Inteligência Artificial na Universidade Federal da Paraíba (UFPB), diretamente de João Pessoa, PB. 
+Estudante do 3º período de Ciência de Dados e Inteligência Artificial na **Universidade Federal da Paraíba (UFPB)**, baseado em João Pessoa, PB.
 
-Sou apaixonado por transformar dados brutos em inteligência acionável. Minha visão é atuar como Cientista de Dados, transitando também pelas áreas de Engenharia de Dados e Analytics, construindo soluções ponta a ponta: da extração e limpeza da informação até a modelagem e deploy de aplicações de dados.
-
----
-
-### 🧭 Trajetória e Foco
-
-* **Visão Analítica:** Foco em aplicar estatística, Machine Learning e análise exploratória para resolver problemas reais e gerar valor.
-* **MLOps e Deploy:** Acredito que um bom modelo precisa ir para produção. Por isso, foco em engenharia de software aplicada a dados, utilizando **FastAPI** para criar APIs robustas e **Docker** para empacotamento em contêineres.
-* **Domínios de Interesse:** Desenvolvo projetos aplicados a diferentes setores de impacto, com foco especial em Negócios e Finanças, Saúde, Marketing e Sports Analytics (Futebol).
+Transformo dados em decisões de negócio. Meu foco atual é **Marketing Analytics** — segmentação de clientes, predição de churn e análise de experimentos (A/B tests) — construindo soluções ponta a ponta, da extração ao deploy.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## 🎯 Em que estou trabalhando agora
 
-* **Linguagens:** Python, C, SQL
-* **Análise & Modelagem (Data Science/ML):** Pandas, NumPy, Scikit-Learn, Matplotlib
-* **MLOps, APIs & Deploy:** FastAPI, Docker
-* **Ambiente & Ferramentas:** Linux (Ubuntu), Git, VS Code, Notion
+- 🔭 Desenvolvendo projeto de **Segmentação RFM + Clusterização** de clientes de e-commerce
+- 🌱 Aprofundando em **estatística aplicada** (testes de hipótese, inferência causal)
+- 🎯 Buscando **estágio em Ciência de Dados / Analytics** para 2026
 
 ---
 
-### 📫 Como me encontrar:
+## 🛠️ Stack Técnica
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-costa-3ab7a3286/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costaalonso81@gmail.com)
+**Linguagens**
+`Python` `SQL` `C`
 
-<br>
+**Análise & Modelagem**
+`Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+**Engenharia & Deploy**
+`FastAPI` `Docker` `Git`
+
+**Ambiente**
+`Linux (Ubuntu)` `VS Code` `Notion`
+
+---
+
+## 📌 Projetos em destaque
+
+> 🚧 Novos projetos sendo publicados mensalmente. Confira os repositórios pinados abaixo.
+
+---
+
+## 📫 Vamos conversar?
+
+Estou aberto a oportunidades de estágio, colaboração em projetos e trocar ideia sobre dados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costaalonso40@gmail.com)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlonsoCosta&show_icons=true&theme=radium&locale=pt-br" alt="Estatísticas do GitHub de Alonso" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoCosta&layout=compact&theme=radium" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlonsoCosta&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Alonso" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoCosta&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas" height="165"/>
 </p>
