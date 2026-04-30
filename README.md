@@ -4,15 +4,13 @@
 
 Estudante do 3º período de Ciência de Dados e Inteligência Artificial na **Universidade Federal da Paraíba (UFPB)**, baseado em João Pessoa, PB.
 
-Transformo dados em decisões de negócio. Meu foco atual é **Marketing Analytics** — segmentação de clientes, predição de churn e análise de experimentos (A/B tests) — construindo soluções ponta a ponta, da extração ao deploy.
-
 ---
 
 ## 🎯 Em que estou trabalhando agora
 
-- 🔭 Desenvolvendo projeto de **Segmentação RFM + Clusterização** de clientes de e-commerce
-- 🌱 Aprofundando em **estatística aplicada** (testes de hipótese, inferência causal)
-- 🎯 Buscando **estágio em Ciência de Dados / Analytics** para 2026
+- 🎓 Estudante de **Ciência de Dados e Inteligência Artificial**
+- 📊 Interesse em **Data Science aplicada ao Marketing** (comportamento do consumidor, análise de dados, insights)
+- 📚 Em constante aprendizado de **estatística, Python e análise de dados**
 
 ---
 
@@ -34,7 +32,7 @@ Transformo dados em decisões de negócio. Meu foco atual é **Marketing Analyti
 
 ## 📌 Projetos em destaque
 
-> 🚧 Novos projetos sendo publicados mensalmente. Confira os repositórios pinados abaixo.
+> 🚧 Em desenvolvimento — em breve projetos práticos de Data Science aplicada ao Marketing
 
 ---
 
