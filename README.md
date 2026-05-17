@@ -1,6 +1,6 @@
 # Olá, eu sou Alonso Costa! 👋
 
-### Estudante de Ciência de Dados & IA | Foco em Marketing Analytics
+### Estudante de Ciência de Dados & IA 
 
 Estudante do 3º período de Ciência de Dados e Inteligência Artificial na **Universidade Federal da Paraíba (UFPB)**, baseado em João Pessoa, PB.
 
